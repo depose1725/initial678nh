@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Flower Shop in Switzerland</title>
+  <style>
+    /* CSS styles go here */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      background: #f9f9f9;
+      padding: 20px;
+      text-align: center;
+    }
+
+    nav {
+      margin-top: 20px;
+      text-align: center;
+    }
+
+    nav a {
+      margin: 10px;
+      text-decoration: none;
+      color: #333;
+    }
+
+    main {
+      padding: 20px;
+    }
+
+    footer {
+      background: #f9f9f9;
+      padding: 20px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Welcome to our Flower Shop in Switzerland</h1>
+  </header>
+
+  <nav>
+    <a href="#home">Home</a>
+    <a href="#about">About Us</a>
+    <a href="#products">Products</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <main>
+    <section id="home">
+      <h2>Welcome to our Flower Shop</h2>
+      <p>Experience the beauty of Swiss flowers inspired by the breathtaking mountains, cows, and beers.</p>
+    </section>
+
+    <section id="about">
+      <h2>About Us</h2>
+      <p>We are a flower shop located in Switzerland, offering a unique selection of flowers and floral arrangements that embrace the Swiss mountain culture.</p>
+    </section>
+
+    <section id="products">
+      <h2>Our Products</h2>
+      <p>Explore our wide range of flowers and floral arrangements, inspired by the beauty of the Swiss mountains, cows, and beers.</p>
+      <!-- Add your product images and descriptions here -->
+    </section>
+
+    <section id="contact">
+      <h2>Contact Us</h2>
+      <p>Visit our shop or get in touch with us to place an order or inquire about our services.</p>
+      <p>Address: Your Flower Shop Address, Switzerland</p>
+      <p>Phone: Your Phone Number</p>
+      <p>Email: Your Email Address</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2023 Flower Shop in Switzerland. All rights reserved.</p>
+  </footer>
+</body>
+</html>
